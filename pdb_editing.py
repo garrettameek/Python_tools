@@ -1,4 +1,10 @@
-# This file contains functions related to PPI.py
+# This file belongs to the "Python_tools" repository,
+# produced in September of 2018 by Garrett A. Meek.
+#
+#
+# This file contains functions for editing PDB coordinates
+# and renumbering atom names
+#
 import pandas as pd
 
 # This function writes coordinates in PDB format
